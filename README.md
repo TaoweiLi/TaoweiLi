@@ -28,8 +28,8 @@ A browser single-player jumping game to control a cat to jump over obstacles to 
 <br/>
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taoweili&show_icons=true&locale=en&layout=compact" alt="taoweili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taoweili&show_icons=true&locale=en&layout=compact" alt="taoweili" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=taoweili&show_icons=true&locale=en" alt="taoweili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taoweili&show_icons=true&locale=en" alt="taoweili" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taoweili&" alt="taoweili" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taoweili&" alt="taoweili" /></p>
