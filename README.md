@@ -3,9 +3,11 @@ I am a full stack software engineer with skills in JavaScript, React / Redux, Ru
 
 ## Projects
 **[Vacate Table](https://vacate-table.herokuapp.com/)**
+
 An OpenTable inspired restaurants reservation web application.
 
 **[Cat Jump](https://taoweili.github.io/Cat_Game/)**
+
 A browser single-player jumping game to control a cat to jump over obstacles to achieve a higher score. 
 
 ## Github Stats
