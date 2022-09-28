@@ -1,8 +1,8 @@
 # Hi there, I'm Taowei Li!
 I am a full stack software engineer with skills in JavaScript, React / Redux, Ruby, Ruby on Rails, CSS/SCSS, PostgreSQL, and HTML. Additional skills of mine include SQL, Webpack, Git, Heroku, and Amazon Web Services (AWS) S3. Currently, I’m furthering my knowledge in MongoDB, Node.js, and Express.js.
 
--💬 Ask me about ...Anything
--📫 How to reach me: litaowei.gm@gmail.com
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: litaowei.gm@gmail.com
 
 ## Projects
 **[Vacate Table](https://vacate-table.herokuapp.com/)**
