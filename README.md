@@ -6,6 +6,9 @@ I am a full stack software engineer with skills in JavaScript, React / Redux, Ru
 
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: litaowei.gm@gmail.com
+- [Linkedin](http://www.linkedin.com/in/taoweili)
+- [Portfolio](https://taoweili.github.io/taowei_li_portfolio/)
+ 
 
 <br/>
 
