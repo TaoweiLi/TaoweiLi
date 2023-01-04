@@ -1,6 +1,6 @@
 # Hi there, I'm Taowei Li! 
 
-I am a full stack software engineer with skills in JavaScript, Java, React/Redux, Ruby, Ruby on Rails, CSS/SCSS, PostgreSQL, and HTML. Additional skills of mine include SQL, Webpack, Git, Heroku, and Amazon Web Services (AWS) S3. Currently, I’m furthering my knowledge in MongoDB, Node.js, and Express.js.
+I am a full stack software engineer with skills in Python, Java, JavaScript, React/Redux, Ruby, Ruby on Rails, CSS/SCSS, PostgreSQL, and HTML. Additional skills of mine include SQL, Webpack, Git, Heroku, and Amazon Web Services (AWS) S3. Currently, I’m furthering my knowledge in MongoDB, Node.js, and Express.js.
 
 <br/>
 
